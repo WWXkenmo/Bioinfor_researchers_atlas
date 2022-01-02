@@ -88,7 +88,7 @@ Manolis Kellis
 
 [Manolis Kellis (Kamvysselis)](http://web.mit.edu/manoli/)
 
-### Stanford 
+### Stanford University
 
 William Greenleaf（导师：谢晓亮）
 
@@ -392,6 +392,14 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 [鲁 志-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/1298.htm)
 
+张强锋（导师：Howard Y. Chang）
+
+主要方向：使用高通量深度测序的手段来探测RNA二级结构和计算建模，RNA功能模体（motif）等有效预测或发现方法，蛋白-蛋白、RNA-RNA、以及蛋白-RNA相互作用网络
+
+主要成果：VRmol: an Integrative Web-Based Virtual Reality System to Explore Macromolecular Structure （Bioinformatics 2020)；RISE: a database of RNA interactome from sequencing experiments（Nucleic Acids Res 2018)
+
+[张强锋实验室](https://zhanglab.net/)
+
 ### University of California San Diego
 
 Gene Yeo
@@ -411,16 +419,6 @@ Gene Yeo
 主要成果：Circular intronic long noncoding RNAs（Molecular cell 2015）；Complementary sequence-mediated exon circularization（2014 Cell）
 
 [杨力----中国科学院上海营养与健康研究所](http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986741.html)
-
-### 清华大学
-
-张强锋（导师：Howard Y. Chang）
-
-主要方向：使用高通量深度测序的手段来探测RNA二级结构和计算建模，RNA功能模体（motif）等有效预测或发现方法，蛋白-蛋白、RNA-RNA、以及蛋白-RNA相互作用网络
-
-主要成果：VRmol: an Integrative Web-Based Virtual Reality System to Explore Macromolecular Structure （Bioinformatics 2020)；RISE: a database of RNA interactome from sequencing experiments（Nucleic Acids Res 2018)
-
-[张强锋实验室](https://zhanglab.net/)
 
 ### The University of Texas MD Anderson Cancer Center
 
