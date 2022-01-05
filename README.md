@@ -28,7 +28,7 @@ Nancy Kleckner
 
 [Nancy Kleckner](https://projects.iq.harvard.edu/kleckner_lab/home)
 
-### University of Massachusetts Medical School 
+### University of Massachusetts Medical School
 
 Job Dekker
 
@@ -106,7 +106,7 @@ https://greenleaf.stanford.edu/
 
 https://profiles.stanford.edu/howard-chang
 
-### Cold Spring Harbor Laboratory 
+### Cold Spring Harbor Laboratory
 
 张奇伟
 
@@ -116,7 +116,7 @@ https://profiles.stanford.edu/howard-chang
 
 [Michael Q. Zhang's Lab: People](http://rulai.cshl.edu/people/index1.htm)
 
-### 北京大学 
+### 北京大学
 
 汤富酬
 
@@ -208,7 +208,18 @@ Bonnie Berger
 
 [Bonnie Berger | MIT Mathematics](https://math.mit.edu/directory/profile.php?pid=20)
 
-### 北京大学 
+### Children's Hospital of Philadelphia
+
+王凯
+
+主要方向：bioinformatics methods to advance genomic medicine, deep neural network for long-read sequencing, deep phenotyping on electronic health records, graduate rotation and undergraduate research projects
+
+主要成果：ANNOVAR, wANNOVAR, PennCNV
+
+[Wang Lab](https://wglab.org/index.html)
+
+
+### 北京大学
 
 谢晓亮
 
@@ -260,7 +271,7 @@ http://sklbc.sysu.edu.cn/teacher/202
 
 https://sls.westlake.edu.cn/Our_Faculty/202007/t20200717_6659.shtml
 
-### The University of Texas MD Anderson Cancer Center 
+### The University of Texas MD Anderson Cancer Center
 
 主要方向：Single Cell Genomics; Cancer Evolution；development of single cell genome sequencing technologie；study cancer as an evolutionary process in which clones undergo selection and expansion in response to selective pressures
 
@@ -443,6 +454,38 @@ Mapping the Mouse Cell Atlas by Microwell-Seq(Cell 2018)
 [郭国骥-浙江大学个人主页](https://person.zju.edu.cn/ggj#0)
 
 ## 四：蛋白质组学
+
+### Eidgenössische Technische Hochschule Zürich
+
+Ruedi Aebersold
+
+主要方向：One of the pioneers in the field of proteomics, Mass Spectrometry, Systems Biology, Bioinformatics, 
+
+主要成果：ICAT & SRM & SWATH
+
+[Ruedi Aebersold](http://www.imsb.ethz.ch/research/aebersold/people/ruedi-aebersold.html)
+
+
+### Max-Planck-Institute of Biochemistry
+
+Matthias Mann
+
+主要方向：Mass Spectrometry, Systems Biology, Bioinformatics, Signal Transduction, Posttranslational modifications, Metabolic diseases, Clinical proteomics, Cancer
+
+主要成果：SILAC & MaxQuant
+
+[Mann lab](https://www.biochem.mpg.de/mann)
+
+
+### Scripps Research Institute
+
+John R Yates III
+
+主要方向：Mass Spectrometry, Bioinformatics, 
+
+主要成果：SEQUEST & MudPIT
+
+[Yates Lab](http://fields.scripps.edu/yates/wp/)
 
 ### 西湖大学
 
