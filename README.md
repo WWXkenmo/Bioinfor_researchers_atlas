@@ -12,7 +12,7 @@
 
 主要成果：开发Model-based analysis of ChIP-Seq (MACS)、Cistrome数据库
 
-[Liu Lab](https://liulab-dfci.github.io/)
+Homepage: [Liu Lab](https://liulab-dfci.github.io/)
 
 Bradley E. Bernstein
 
@@ -20,13 +20,13 @@ Bradley E. Bernstein
 
 主要成果：The NIH Roadmap Epigenomics Mapping Consortium
 
-https://bernstein.dfci.harvard.edu/
+Homepage: https://bernstein.dfci.harvard.edu/
 
 Nancy Kleckner
 
 主要方向：The Physical Biology of Chromosomes 主要成果：3C（Capturing Chromosome Conformation，通讯）
 
-[Nancy Kleckner](https://projects.iq.harvard.edu/kleckner_lab/home)
+Homepage: [Nancy Kleckner](https://projects.iq.harvard.edu/kleckner_lab/home)
 
 ### University of Massachusetts Medical School
 
@@ -36,7 +36,7 @@ Job Dekker
 
 主要成果：3C（Capturing Chromosome Conformation，一作）；Hi-C
 
-[Job Dekker - Dekker Lab](http://www.dekkerlab.org/job-dekker/)
+Homepage: [Job Dekker - Dekker Lab](http://www.dekkerlab.org/job-dekker/)
 
 ### The Jackson Laboratory
 
@@ -46,7 +46,7 @@ Job Dekker
 
 主要成果：ChIA-PET；参与ENCODE计划
 
-[Yijun Ruan](https://scholar.google.com/citations?user=pGiG2REAAAAJ&hl=en)
+Homepage: [Yijun Ruan](https://scholar.google.com/citations?user=pGiG2REAAAAJ&hl=en)
 
 ### University of California, Irvine
 
@@ -56,7 +56,7 @@ Job Dekker
 
 主要成果：RSeQC: quality control of RNA-seq experiments
 
-[UC Irvine - Faculty Profile System - Wei Li](https://www.faculty.uci.edu/profile.cfm?faculty_id=6687)
+Homepage: [UC Irvine - Faculty Profile System - Wei Li](https://www.faculty.uci.edu/profile.cfm?faculty_id=6687)
 
 ### Fred Hutchinson Cancer Research Center
 
@@ -66,7 +66,7 @@ Steven Henikoff
 
 主要成果：ChEC-seq；DNase-seq；CUT&Tag；CUT&Run；CUT&Tag2for1；MulTI-Tag
 
-https://research.fredhutch.org/henikoff/en.html
+Homepage: https://research.fredhutch.org/henikoff/en.html
 
 ### University of California San Diego
 
@@ -76,7 +76,7 @@ https://research.fredhutch.org/henikoff/en.html
 
 主要成果：chip-chip；识别和表征增强子的转录控制元件；Paired-seq；Paired-tag
 
-[Bing Ren, Ph.D.](http://renlab.sdsc.edu/renlab_website/bing/)
+Homepage: [Bing Ren, Ph.D.](http://renlab.sdsc.edu/renlab_website/bing/)
 
 ### Massachusetts Institute of Technology(MIT)
 
@@ -86,7 +86,7 @@ Manolis Kellis
 
 主要成果：参与构建ENCODE数据库；ChromHMM: automating chromatin-state discovery and characterization
 
-[Manolis Kellis (Kamvysselis)](http://web.mit.edu/manoli/)
+Homepage: [Manolis Kellis (Kamvysselis)](http://web.mit.edu/manoli/)
 
 ### Stanford University
 
@@ -96,7 +96,7 @@ William Greenleaf（导师：谢晓亮）
 
 主要成果：ATAC-seq: A Method for Assaying Chromatin Accessibility Genome-Wide
 
-https://greenleaf.stanford.edu/
+Homepage: https://greenleaf.stanford.edu/
 
 张元豪
 
@@ -104,7 +104,7 @@ https://greenleaf.stanford.edu/
 
 主要成果：scATAC-seq
 
-https://profiles.stanford.edu/howard-chang
+Homepage: https://profiles.stanford.edu/howard-chang
 
 ### Cold Spring Harbor Laboratory
 
@@ -114,7 +114,7 @@ https://profiles.stanford.edu/howard-chang
 
 主要成果：CEPDB；CSEdb；CIPHER；ESEfinder
 
-[Michael Q. Zhang's Lab: People](http://rulai.cshl.edu/people/index1.htm)
+Homepage: [Michael Q. Zhang's Lab: People](http://rulai.cshl.edu/people/index1.htm)
 
 ### 北京大学
 
@@ -124,7 +124,7 @@ https://profiles.stanford.edu/howard-chang
 
 主要成果：单细胞转录组测序技术的开发（mRNA-Seq whole-transcriptome analysis of a single cell）
 
-[汤富酬-北京未来基因诊断高精尖创新中心](https://icg.pku.edu.cn/kxyj/yjtd/269287.htm)
+Homepage: [汤富酬-北京未来基因诊断高精尖创新中心](https://icg.pku.edu.cn/kxyj/yjtd/269287.htm)
 
 ### 清华大学
 
@@ -134,7 +134,7 @@ https://profiles.stanford.edu/howard-chang
 
 主要成果：哺乳动物胚胎发育过程中表观图谱的构建
 
-[颉 伟-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/2439.htm)
+Homepage: [颉 伟-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/2439.htm)
 
 ### NIH
 
@@ -144,7 +144,7 @@ https://profiles.stanford.edu/howard-chang
 
 主要成果：人类组蛋白甲基化图谱构建、人类核小体定位图谱构建
 
-https://irp.nih.gov/pi/keji-zhao
+Homepage: https://irp.nih.gov/pi/keji-zhao
 
 ### 北京基因组所：
 
@@ -154,7 +154,7 @@ https://irp.nih.gov/pi/keji-zhao
 
 主要成果：
 
-[中国科学院北京基因组研究所（国家生物信息中心）](http://www.big.cas.cn/yjdw_/zgjry/index_84121.html?json=http://www.big.cas.cn/sourcedb_big_cas/zw/zjrc_/zg/201311/t20131116_3979410.json)
+Homepage: [中国科学院北京基因组研究所（国家生物信息中心）](http://www.big.cas.cn/yjdw_/zgjry/index_84121.html?json=http://www.big.cas.cn/sourcedb_big_cas/zw/zjrc_/zg/201311/t20131116_3979410.json)
 
 ### 同济大学
 
@@ -164,7 +164,7 @@ https://irp.nih.gov/pi/keji-zhao
 
 主要成果：MACS（张勇第一作者，刘小乐通讯作者）
 
-https://zhanglab.tongji.edu.cn/index.htm
+Homepage: https://zhanglab.tongji.edu.cn/index.htm
 
 ## 二：基因组学
 
@@ -176,7 +176,7 @@ Eric S. Lander
 
 主要成果：Broad Institute创始人、人类基因组计划首席科学家、GATK、IGV
 
-[Eric S. Lander](https://www.broadinstitute.org/bios/eric-s-lander)
+Homepage: [Eric S. Lander](https://www.broadinstitute.org/bios/eric-s-lander)
 
 ### Genentech
 
@@ -186,7 +186,7 @@ Aviv Regev
 
 主要成果：Fungal orthogroups；Cancer module map；Module networks；international Human Cell Atlas project首席科学家
 
-https://www.broadinstitute.org/regev-lab
+Homepage: https://www.broadinstitute.org/regev-lab
 
 ### Dana-Farber and Harvard Medical School
 
@@ -196,7 +196,7 @@ https://www.broadinstitute.org/regev-lab
 
 主要成果：SAM格式设计；SAMtools；bwa；Minimap2；Chromap
 
-[Heng Li's Homepage](http://www.liheng.org/)
+Homepage: [Heng Li's Homepage](http://www.liheng.org/)
 
 ### Massachusetts Institute of Technology
 
@@ -206,7 +206,7 @@ Bonnie Berger
 
 主要成果：Global alignment of multiple protein interaction networks with application to functional orthology detection
 
-[Bonnie Berger | MIT Mathematics](https://math.mit.edu/directory/profile.php?pid=20)
+Homepage: [Bonnie Berger | MIT Mathematics](https://math.mit.edu/directory/profile.php?pid=20)
 
 ### Children's Hospital of Philadelphia
 
@@ -216,7 +216,7 @@ Bonnie Berger
 
 主要成果：ANNOVAR, wANNOVAR, PennCNV
 
-[Wang Lab](https://wglab.org/index.html)
+Homepage: [Wang Lab](https://wglab.org/index.html)
 
 
 ### 北京大学
@@ -227,7 +227,7 @@ Bonnie Berger
 
 主要成果：多重退火循环扩增法（MALBAC）
 
-[谢晓亮-北京未来基因诊断高精尖创新中心](https://icg.pku.edu.cn/kxyj/yjtd/269284.htm)
+Homepage: [谢晓亮-北京未来基因诊断高精尖创新中心](https://icg.pku.edu.cn/kxyj/yjtd/269284.htm)
 
 张泽民
 
@@ -235,7 +235,7 @@ Bonnie Berger
 
 主要成果：GEPIA web server、构建多种肿瘤单细胞图谱
 
-http://cancer-pku.cn/
+Homepage: http://cancer-pku.cn/
 
 李程（导师：王永雄）
 
@@ -243,7 +243,7 @@ http://cancer-pku.cn/
 
 主要成果：Combat；3Disease Browser；突变图谱的构建。
 
-[北京大学统计科学中心](https://www.stat-center.pku.edu.cn/zxry/zxjy/lc/1227408.htm)
+Homepage: [北京大学统计科学中心](https://www.stat-center.pku.edu.cn/zxry/zxjy/lc/1227408.htm)
 
 ### 清华大学：
 
@@ -251,7 +251,7 @@ http://cancer-pku.cn/
 
 主要方向：机器学习与生物和医学大数据分析、人类细胞图谱与人体系统数字孪生、单细胞生物信息学分析
 
-[张学工-清华大学自动化系](https://www.au.tsinghua.edu.cn/info/1110/1569.htm)
+Homepage: [张学工-清华大学自动化系](https://www.au.tsinghua.edu.cn/info/1110/1569.htm)
 
 ### 中山大学
 
@@ -259,7 +259,7 @@ http://cancer-pku.cn/
 
 主要方向：分子进化、群体基因组学、进化基因组学
 
-http://sklbc.sysu.edu.cn/teacher/202
+Homepage: http://sklbc.sysu.edu.cn/teacher/202
 
 ### 西湖大学
 
@@ -269,15 +269,17 @@ http://sklbc.sysu.edu.cn/teacher/202
 
 主要成果：GCTA、SMR、OSCA、fastGWA以及fastGWA-GLMM
 
-https://sls.westlake.edu.cn/Our_Faculty/202007/t20200717_6659.shtml
+Homepage: https://sls.westlake.edu.cn/Our_Faculty/202007/t20200717_6659.shtml
 
 ### The University of Texas MD Anderson Cancer Center
+
+Nicholas Navin
 
 主要方向：Single Cell Genomics; Cancer Evolution；development of single cell genome sequencing technologie；study cancer as an evolutionary process in which clones undergo selection and expansion in response to selective pressures
 
 主要成果：Tumour evolution inferred by single-cell sequencing（Nature 2011）
 
-https://faculty.mdanderson.org/profiles/nicholas_navin.html
+Homepage: https://faculty.mdanderson.org/profiles/nicholas_navin.html
 
 ### University of Michigan
 
@@ -285,7 +287,7 @@ https://faculty.mdanderson.org/profiles/nicholas_navin.html
 
 主要方向：计算分子进化；进化基因组学
 
-[Jianzhi Zhang | U-M LSA Ecology and Evolutionary Biology (EEB)](https://lsa.umich.edu/eeb/people/faculty/jianzhi.html)
+Homepage: [Jianzhi Zhang | U-M LSA Ecology and Evolutionary Biology (EEB)](https://lsa.umich.edu/eeb/people/faculty/jianzhi.html)
 
 ### University of Chicago
 
@@ -293,7 +295,7 @@ https://faculty.mdanderson.org/profiles/nicholas_navin.html
 
 主要方向：Evolution of gene essentiality in development；Evolutionary analysis of gene interactions with new genes
 
-[| Ecology & Evolution](https://ecologyandevolution.uchicago.edu/faculty/manyuan-long-phd)
+Homepage: [| Ecology & Evolution](https://ecologyandevolution.uchicago.edu/faculty/manyuan-long-phd)
 
 ### University College London
 
@@ -303,7 +305,7 @@ https://faculty.mdanderson.org/profiles/nicholas_navin.html
 
 主要成果：BP&P: Bayesian analysis of genomic sequence data under the multispecies coalescent model；Phylogenetic analysis by maximum likelihood （PAML）
 
-http://abacus.gene.ucl.ac.uk/
+Homepage: http://abacus.gene.ucl.ac.uk/
 
 ### 复旦大学
 
@@ -311,7 +313,7 @@ http://abacus.gene.ucl.ac.uk/
 
 主要方向：人类群体遗传学和基因组学、医学遗传学及遗传流行病学（心血管疾病、风湿病、肿瘤等）、计算生物学
 
-[金力](https://ibs.fudan.edu.cn/ab/2f/c21163a240431/page.htm)
+Homepage: [金力](https://ibs.fudan.edu.cn/ab/2f/c21163a240431/page.htm)
 
 ### Carnegie Mellon University
 
@@ -321,7 +323,7 @@ http://abacus.gene.ucl.ac.uk/
 
 主要成果：Infinite Sites Model、InferCARs、Nucleome Browser
 
-[Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/~jianma/)
+Homepage: [Carnegie Mellon School of Computer Science](https://www.cs.cmu.edu/~jianma/)
 
 ### 中国农业科学院农业基因组研究所
 
@@ -331,7 +333,7 @@ http://abacus.gene.ucl.ac.uk/
 
 主要成果：Pseudo-sanger、wtdbg2、SMARTdenovo
 
-[中国农科院基因组所](http://agis.caas.cn/rcpy/nkyrc/zgnykxynkyctszcljrcrxzalblcl/230318.htm)
+Homepage: [中国农科院基因组所](http://agis.caas.cn/rcpy/nkyrc/zgnykxynkyctszcljrcrxzalblcl/230318.htm)
 
 ### St. Jude Children's Research Hospital
 
@@ -341,7 +343,7 @@ Jinghui Zhang
 
 主要成果：参与人类基因组计划；开发BLAST（co-author）；CREST maps somatic structural variation in cancer genomes with base-pair resolution（Nature Methods 2011）；Copy Number Segmentation by Regression Tree in Next Generation Sequencing（Nature Methods 2015）
 
-https://www.stjuderesearch.org/site/lab/zhang
+Homepage: https://www.stjuderesearch.org/site/lab/zhang
 
 ### 上海交通大学瑞金医院
 
@@ -351,7 +353,7 @@ https://www.stjuderesearch.org/site/lab/zhang
 
 主要成果：A genetics-led approach defines the drug target landscape of 30 immune-related traits（Nature Genetics 2019）
 
-https://www.nature.com/articles/s41588-019-0456-1#code-availability
+Homepage: https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 ## 三：RNA组学
 
@@ -365,7 +367,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 数据库NPInter（非编码RNA与其它生物大分子相互作用）
 
-[陈润生-中国科学院大学-UCAS](http://people.ucas.ac.cn/~runshengchen)
+Homepage: [陈润生-中国科学院大学-UCAS](http://people.ucas.ac.cn/~runshengchen)
 
 ### Stanford University
 
@@ -375,7 +377,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 主要成果：采样算法并应用到贝叶斯推理的方法；开发了微阵列基因芯片表达数据和RNA测序数据分析的创新模型和方法
 
-[Welcome to the Wong Lab](https://web.stanford.edu/group/wonglab/)
+Homepage: [Welcome to the Wong Lab](https://web.stanford.edu/group/wonglab/)
 
 ### 北京大学
 
@@ -385,7 +387,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 主要成果：
 
-[Bioinformatics and Computational Genomics](http://www.gao-lab.org/)
+Homepage: [Bioinformatics and Computational Genomics](http://www.gao-lab.org/)
 
 崔庆华
 
@@ -393,7 +395,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 主要成果：LncRNADisease: a database for long-non-coding RNA-associated diseases（Nucleic Acids Research 2013）；Inferring the human microRNA functional similarity and functional network based on microRNA-associated diseases（Bioinformatics 2010）
 
-[北京大学基础医学院](https://sbms.bjmu.edu.cn/jsdw/bssds/5fcd1cdb0bfa41adbed229df5bb7da9f.htm)
+Homepage: [北京大学基础医学院](https://sbms.bjmu.edu.cn/jsdw/bssds/5fcd1cdb0bfa41adbed229df5bb7da9f.htm)
 
 ### 清华大学
 
@@ -401,7 +403,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 主要方向：动植物中编码和非编码RNA的转录后调控研究 、癌症等疾病中新型RNA分子标识物的发现和机理研究、 机器学习等数据挖掘技术的研究及其在基因组学大数据上的应用
 
-[鲁 志-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/1298.htm)
+Homepage: [鲁 志-清华大学生命学院](https://life.tsinghua.edu.cn/info/1034/1298.htm)
 
 张强锋（导师：Howard Y. Chang）
 
@@ -409,7 +411,7 @@ https://www.nature.com/articles/s41588-019-0456-1#code-availability
 
 主要成果：VRmol: an Integrative Web-Based Virtual Reality System to Explore Macromolecular Structure （Bioinformatics 2020)；RISE: a database of RNA interactome from sequencing experiments（Nucleic Acids Res 2018)
 
-[张强锋实验室](https://zhanglab.net/)
+Homepage: [张强锋实验室](https://zhanglab.net/)
 
 ### University of California San Diego
 
@@ -419,7 +421,7 @@ Gene Yeo
 
 主要成果：seCLIP
 
-[Institute for Genomic Medicine](http://igm.ucsd.edu/faculty/profiles/gene-yeo.shtml)
+Homepage: [Institute for Genomic Medicine](http://igm.ucsd.edu/faculty/profiles/gene-yeo.shtml)
 
 ### 中科院上海营养与健康研究所
 
@@ -429,7 +431,7 @@ Gene Yeo
 
 主要成果：Circular intronic long noncoding RNAs（Molecular cell 2015）；Complementary sequence-mediated exon circularization（2014 Cell）
 
-[杨力----中国科学院上海营养与健康研究所](http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986741.html)
+Homepage: [杨力----中国科学院上海营养与健康研究所](http://www.sinh.cas.cn/rcdw/qtyjzz/201803/t20180327_4986741.html)
 
 ### The University of Texas MD Anderson Cancer Center
 
@@ -439,7 +441,7 @@ Han Liang（导师：Wen-Hsiung Li）
 
 主要成果：Whole-exome sequencing combined with functional genomics reveals novel candidate driver cancer genes in endometrial cancer；TANRIC: an interactive open platform to explore the function of lncRNAs in cancer
 
-https://faculty.mdanderson.org/profiles/liang_han.html
+Homepage: https://faculty.mdanderson.org/profiles/liang_han.html
 
 ### 浙江大学
 
@@ -451,7 +453,7 @@ https://faculty.mdanderson.org/profiles/liang_han.html
 
 Mapping the Mouse Cell Atlas by Microwell-Seq(Cell 2018)
 
-[郭国骥-浙江大学个人主页](https://person.zju.edu.cn/ggj#0)
+Homepage: [郭国骥-浙江大学个人主页](https://person.zju.edu.cn/ggj#0)
 
 ## 四：蛋白质组学
 
@@ -463,7 +465,7 @@ Ruedi Aebersold
 
 主要成果：ICAT & SRM & SWATH
 
-[Ruedi Aebersold](http://www.imsb.ethz.ch/research/aebersold/people/ruedi-aebersold.html)
+Homepage: [Ruedi Aebersold](http://www.imsb.ethz.ch/research/aebersold/people/ruedi-aebersold.html)
 
 
 ### Max-Planck-Institute of Biochemistry
@@ -474,7 +476,7 @@ Matthias Mann
 
 主要成果：SILAC & MaxQuant
 
-[Mann lab](https://www.biochem.mpg.de/mann)
+Homepage: [Mann lab](https://www.biochem.mpg.de/mann)
 
 
 ### Scripps Research Institute
@@ -485,7 +487,7 @@ John R Yates III
 
 主要成果：SEQUEST & MudPIT
 
-[Yates Lab](http://fields.scripps.edu/yates/wp/)
+Homepage: [Yates Lab](http://fields.scripps.edu/yates/wp/)
 
 ### 西湖大学
 
@@ -495,7 +497,7 @@ John R Yates III
 
 主要成果：Rapid mass spectrometric conversion of tissue biopsy samples into permanent quantitative digital proteome maps（2015）；Multi-organ proteomic landscape of COVID-19 autopsies（2020）
 
-[Guomics Laboratory](https://guomics.com/)
+Homepage: [Guomics Laboratory](https://guomics.com/)
 
 ### 暨南大学
 
@@ -505,7 +507,7 @@ John R Yates III
 
 主要成果：FANSe系列超高精度大规模测序序列比对算法；建立了翻译中mRNA与蛋白质丰度之间的定量关系，将中心法则定量化
 
-[Translatomics Lab 翻译组学实验室](https://translatome.net/About/Research_interest.html)
+Homepage: [Translatomics Lab 翻译组学实验室](https://translatome.net/About/Research_interest.html)
 
 ## 五、计算结构生物学
 
@@ -517,7 +519,7 @@ Demis Hassabis（导师：Tomaso Poggio）
 
 主要成果：AlphaFold（通讯）
 
-[About](https://deepmind.com/about)
+Homepage: [About](https://deepmind.com/about)
 
 John Jumper
 
@@ -525,7 +527,7 @@ John Jumper
 
 主要成果：AlphaFold（一作）
 
-[Science Team](https://deepmind.com/about/science#team_profile)
+Homepage: [Science Team](https://deepmind.com/about/science#team_profile)
 
 ### Tel Aviv University
 
@@ -535,7 +537,7 @@ Nir Ben-Tal
 
 主要成果：ConSurf、Rate4Site
 
-https://en-lifesci.tau.ac.il/profile/bental
+Homepage: https://en-lifesci.tau.ac.il/profile/bental
 
 ### Max Planck Institute for Developmental Biology
 
@@ -545,7 +547,7 @@ Andrei N. Lupas
 
 主要成果：Predicting coiled coils from protein sequences
 
-https://www.mpg.de/459944/developmental-biology-lupas
+Homepage: https://www.mpg.de/459944/developmental-biology-lupas
 
 Johannes Söding
 
@@ -555,7 +557,7 @@ Johannes Söding
 
 HHblits: lightning-fast iterative protein sequence searching by HMM-HMM alignment
 
-https://www.mpibpc.mpg.de/soeding
+Homepage: https://www.mpibpc.mpg.de/soeding
 
 **University of Texas Southwestern Medical Center**
 
@@ -565,7 +567,7 @@ Nick Grishin
 
 主要成果：PROMALS3D: a tool for multiple protein sequence and structure alignments；AL2CO: calculation of positional conservation in a protein sequence alignment；ECOD；ProSMoS；
 
-[Grishin Lab: Home Page](http://prodata.swmed.edu/Lab/HomeLAB.htm)
+Homepage: [Grishin Lab: Home Page](http://prodata.swmed.edu/Lab/HomeLAB.htm)
 
 ### University of Michigan Medical School
 
@@ -575,7 +577,7 @@ Yang Zhang
 
 主要成果：I-TASSER（通讯）: a unified platform for automated protein structure and function prediction；TM-align: a protein structure alignment algorithm based on the TM-score；CR-I-TASSER: Assemble Protein Structures from Cryo-EM Density Maps using Deep Convolutional Neural Networks
 
-[Yang Zhang, Ph.D. | Computational Medicine and Bioinformatics | Michigan Medicine](https://medicine.umich.edu/dept/dcmb/yang-zhang-phd)
+Homepage: [Yang Zhang, Ph.D. | Computational Medicine and Bioinformatics | Michigan Medicine](https://medicine.umich.edu/dept/dcmb/yang-zhang-phd)
 
 ### Memorial Sloan Kettering Cancer Center
 
@@ -585,7 +587,7 @@ Dana Pe'er
 
 主要成果：Using Bayesian networks to analyze expression data（Journal of computational biology 2000）
 
-https://www.mskcc.org/research/ski/labs/dana-pe-er
+Homepage: https://www.mskcc.org/research/ski/labs/dana-pe-er
 
 ### 南开大学
 
@@ -595,7 +597,7 @@ Jianyi Yang
 
 主要成果：I-TASSER（一作）
 
-[Yang Lab](https://yanglab.nankai.edu.cn/)
+Homepage: [Yang Lab](https://yanglab.nankai.edu.cn/)
 
 ## 六：计算神经生物学
 
@@ -609,7 +611,7 @@ Tomaso Poggio
 
 Hierarchical models of object recognition in cortex
 
-https://cbmm.mit.edu/about/people/poggio
+Homepage: https://cbmm.mit.edu/about/people/poggio
 
 ### 复旦大学
 
@@ -619,7 +621,7 @@ https://cbmm.mit.edu/about/people/poggio
 
 主要成果：PhosD: inferring kinase–substrate interactions based on protein domains (Bioinformatics 2017)；Prediction of drug combinations by integrating molecular and pharmacological data（PLoS computational biology 2011）
 
-http://comp-sysbio.org/
+Homepage: http://comp-sysbio.org/
 
 ## 七：计算生物学(偏计算方向)
 
@@ -633,7 +635,7 @@ Daphne Koller
 
 Continuous Time Bayesian Networks；Multi-Class Segmentation with Relative Location Prior
 
-[Daphne Koller's Research Group](http://dags.stanford.edu/projects.html)
+Homepage: [Daphne Koller's Research Group](http://dags.stanford.edu/projects.html)
 
 ### Weizmann Institute of Science
 
@@ -643,7 +645,7 @@ Nir Freidman
 
 主要成果：Gaussian Process Networks
 
-https://www.weizmann.ac.il/immunology/NirFriedman/
+Homepage: https://www.weizmann.ac.il/immunology/NirFriedman/
 
 ### 北京大学
 
@@ -655,7 +657,7 @@ https://www.weizmann.ac.il/immunology/NirFriedman/
 
 Spatial transcriptomic analysis of cryosectioned tissue samples with Geo-seq
 
-[韩敬东-北京大学前沿交叉学科研究院](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=214)
+Homepage: [韩敬东-北京大学前沿交叉学科研究院](http://www.aais.pku.edu.cn/duiwu/showproduct.php?id=214)
 
 ### The Chinese University of Hong Kong
 
@@ -665,7 +667,7 @@ Kevin Y Yip
 
 主要成果：参与ENCODE；Harp: A practical projected clustering algorithm
 
-[Home of Kevin Yip](http://www.cse.cuhk.edu.hk/~kevinyip/index.html)
+Homepage: [Home of Kevin Yip](http://www.cse.cuhk.edu.hk/~kevinyip/index.html)
 
 ### University of Pennsylvania
 
@@ -675,7 +677,7 @@ Nancy Ruonan Zhang
 
 主要成果：参与ENCODE；Graph-based change-point detection；A modified Bayes information criterion with applications to the analysis of comparative genomic hybridization data；SAVER: gene expression recovery for single-cell RNA sequencing
 
-[Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/profile/nzh/)
+Homepage: [Department of Statistics and Data Science](https://statistics.wharton.upenn.edu/profile/nzh/)
 
 Kai Tan
 
@@ -683,7 +685,7 @@ Kai Tan
 
 主要成果：Global view of enhancer–promoter interactome in human cells；A comparative genomics approach to prediction of new members of regulons
 
-https://www.med.upenn.edu/apps/faculty/index.php/g275/p8885111
+Homepage: https://www.med.upenn.edu/apps/faculty/index.php/g275/p8885111
 
 Mingyao Li
 
@@ -691,7 +693,7 @@ Mingyao Li
 
 主要成果：MetaDiff；PennSeq
 
-https://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973
+Homepage: https://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973
 
 ### UT Southwestern Medical Center
 
@@ -701,7 +703,7 @@ Jian Zhou
 
 主要成果：Whole-genome deep-learning analysis identifies contribution of noncoding mutations to autism risk；Predicting effects of noncoding variants with deep learning–based sequence model
 
-[Jian Zhou - Home](https://www.princeton.edu/~jzthree/)
+Homepage: [Jian Zhou - Home](https://www.princeton.edu/~jzthree/)
 
 ### Johns Hopkins University
 
@@ -711,7 +713,7 @@ Jean Fan
 
 主要成果：VeloViz: RNA-velocity informed embeddings for visualizing cellular trajectories；Characterizing transcriptional heterogeneity through pathway and gene set overdispersion analysis；Granatum: a graphical single-cell RNA-Seq analysis pipeline for genomics scientists
 
-[Jean Fan - Johns Hopkins Biomedical Engineering](https://www.bme.jhu.edu/people/faculty/jean-fan/)
+Homepage: [Jean Fan - Johns Hopkins Biomedical Engineering](https://www.bme.jhu.edu/people/faculty/jean-fan/)
 
 ### University of Michigan
 
@@ -721,7 +723,7 @@ Lana Garmire
 
 主要成果：Cox-nnet: an artificial neural network method for prognosis prediction of high-throughput omics data；Deep learning–based multi-omics integration robustly predicts survival in liver cancer；
 
-[Lana Garmire, Ph.D. | Computational Medicine and Bioinformatics | Michigan Medicine](https://medicine.umich.edu/dept/dcmb/lana-garmire-phd)
+Homepage: [Lana Garmire, Ph.D. | Computational Medicine and Bioinformatics | Michigan Medicine](https://medicine.umich.edu/dept/dcmb/lana-garmire-phd)
 
 ### Univeristy of Hong Kong
 
@@ -731,4 +733,4 @@ Yuanhua Huang
 
 主要成果：BRIE: transcriptome-wide splicing quantification in single cells；Vireo: Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference
 
-[Huang Lab @ HKU Home](https://web.hku.hk/~yuanhua/)
+Homepage: [Huang Lab @ HKU Home](https://web.hku.hk/~yuanhua/)
