@@ -529,6 +529,16 @@ John Jumper
 
 Homepage: [Science Team](https://deepmind.com/about/science#team_profile)
 
+### The University of Washington
+
+David Baker
+
+主要方向：Deep learning for protein structure refinement and protein design; Designing molecular switches, enzymes, and motors; Designing delivery vehicles for targeted intracellular delivery of biologics 
+
+主要成果：Protein Structure Prediction Using Rosetta(Methods in enzymology 2004)
+
+Homepage: https://www.bakerlab.org/
+
 ### Tel Aviv University
 
 Nir Ben-Tal
