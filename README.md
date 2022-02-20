@@ -4,9 +4,9 @@
 
 ## 一：表观遗传组学:
 
-### Dana-Farber and Harvard Medical School
+### Dana-Farber and Harvard Medical School（GV20 Oncotherapy）
 
-刘小乐
+刘小乐（注：已离开学术界，任职于GV20 Oncotherapy，董事会主席）
 
 主要方向：整合分析全基因组ChIP-chip/Seq、核小体定位、组蛋白修饰数据、开发生物信息学算法
 
@@ -170,7 +170,7 @@ Homepage: https://zhanglab.tongji.edu.cn/index.htm
 
 ### Broad Institute of MIT and Harvard
 
-Eric S. Lander
+Eric S. Lander(谨慎，有负面报道)
 
 主要方向：human genetic variation; human population history; genome evolution; regulatory elements; long non-coding RNAs; three-dimensional folding of the human genome; and genome-wide screens to discover the genes essential for biological processes using CRISPR-based genome editing
 
@@ -252,6 +252,16 @@ Homepage: [北京大学统计科学中心](https://www.stat-center.pku.edu.cn/zx
 主要方向：机器学习与生物和医学大数据分析、人类细胞图谱与人体系统数字孪生、单细胞生物信息学分析
 
 Homepage: [张学工-清华大学自动化系](https://www.au.tsinghua.edu.cn/info/1110/1569.htm)
+
+### Cornell University
+
+Edward Buckler
+
+主要方向：Plant Breeding and Genetics Section; Quantitative and statistical genetics in maize, cassava, biofuel grasses, and grapes
+
+主要成果：TASSEL: software for association mapping of complex traits in diverse samples(Bioinformatics 2007)
+
+Homepage: https://www.maizegenetics.net/
 
 ### 中山大学
 
@@ -569,7 +579,7 @@ HHblits: lightning-fast iterative protein sequence searching by HMM-HMM alignmen
 
 Homepage: https://www.mpibpc.mpg.de/soeding
 
-**University of Texas Southwestern Medical Center**
+### University of Texas Southwestern Medical Center
 
 Nick Grishin
 
@@ -599,15 +609,35 @@ Dana Pe'er
 
 Homepage: https://www.mskcc.org/research/ski/labs/dana-pe-er
 
-### 南开大学
+### 山东大学
 
-Jianyi Yang
+杨建益
 
 主要方向：Protein structure and function prediction；Protein structure alignment；Protein-ligand binding site prediciton
 
 主要成果：I-TASSER（一作）
 
 Homepage: [Yang Lab](https://yanglab.nankai.edu.cn/)
+
+### King Abdullah University of Science and Technology
+
+高欣
+	
+主要方向：1) developing theory and methodology in the fields of machine learning and algorithms; and 2) solving key open problems in biological and medical fields through building computational models, developing machine-learning techniques, and designing effective and efficient algorithms
+
+主要成果：DEEPre: sequence-based enzyme EC number prediction by deep learning(Bioinformatics 2018)
+
+Homepage: https://sfb.kaust.edu.sa/Pages/Home.aspx
+
+### Chinese University of Hong Kong
+
+李煜（导师：高欣）
+	
+主要方向：working at the intersection between machine learning, healthcare and bioinformatics, developing new machine learning methods to resolve the computational problems in biology and healthcare, especially the structured learning problems
+
+主要成果：DEEPre: sequence-based enzyme EC number prediction by deep learning(Bioinformatics 2018)
+
+Homepage: https://liyu95.com/
 
 ## 六：计算神经生物学
 
