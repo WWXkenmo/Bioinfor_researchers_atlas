@@ -465,6 +465,14 @@ Mapping the Mouse Cell Atlas by Microwell-Seq(Cell 2018)
 
 Homepage: [郭国骥-浙江大学个人主页](https://person.zju.edu.cn/ggj#0)
 
+### Johns Hopkins University
+
+Steven Salzberg
+
+主要方向: develop software for aligning and assembling genomes representing a wide range of species, transcriptome analysis, and microbiome analysis
+
+主要成果: Bowtie2, TopHat2, Cufflinks, HISAT, StringTie and FLASH 
+
 ## 四：蛋白质组学
 
 ### Eidgenössische Technische Hochschule Zürich
